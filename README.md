@@ -123,5 +123,5 @@ El repositorio incluye un `Dockerfile` multi-etapa: Maven compila dentro de Dock
 
 ## Integrantes
 
-- Martín
+- Martín Meliman
 - Ignacio Lapierre
